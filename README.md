@@ -135,4 +135,4 @@ diagrams/    → System-level evaluation flows
 Trust in AI systems is not a metric—it is an outcome of design, evaluation, and judgment.
 This repository captures the evaluation thinking layer that determines whether AI systems earn that trust in production.
 
-⭐ If this repository helps you reason more clearly about AI systems, consider starring it.
+⭐ If this repository helps you reason more clearly about AI evaluation and trust, consider starring it.
