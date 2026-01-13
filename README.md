@@ -10,10 +10,10 @@ This repository focuses on the **evaluation layer** of AI systems—where correc
 **Author — Aditi Khare**  
 Writing on AI research, product thinking, and system architecture  
 
-🔗 **Website:** [aditikhare.com](https://aditikhare.com)  
-🧠 **Related Work:**  
-- [AI Research Agent](https://github.com/aditikhare007/ai-research-agent) — research → system understanding  
-- [AI System Design Atlas](https://github.com/aditikhare007/ai-system-design-atlas) — architecture patterns & trade-offs  
+🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
+🔗 **GitHub Repository:** [AI Evaluation & Trust Lens](https://github.com/aditikhare007/ai-evaluation-trust-lens)  
+🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/ai-evaluation-trust-lens)  
+💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)  
 
 ⭐ If this repository helps you reason more clearly about AI evaluation and trust, consider starring it.
 
@@ -130,6 +130,9 @@ dimensions/  → Evaluation dimensions (conceptual)
 examples/    → Evaluation walkthroughs
 diagrams/    → System-level evaluation flows
 ```
+
+© 2026 Aditi Khare. All rights reserved.
+
 🧠 Final Note
 
 Trust in AI systems is not a metric—it is an outcome of design, evaluation, and judgment.
