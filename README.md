@@ -10,10 +10,14 @@ This repository focuses on the **evaluation layer** of AI systems—where correc
 **Author — Aditi Khare**  
 Writing on AI research, product thinking, and system architecture  
 
-🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
-🔗 **GitHub Repository:** [AI Evaluation & Trust Lens](https://github.com/aditikhare007/ai-evaluation-trust-lens)  
-🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/ai-evaluation-trust-lens)  
-💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)  
+## 🌐 Presence  
+
+🌐 Website: [aditikhare.com](https://aditikhare.com)  
+🔗 GitHub: [aditikhare007](https://github.com/aditikhare007)  
+🤗 Hugging Face: [AditiShashiKhare](https://huggingface.co/AditiShashiKhare)  
+💼 LinkedIn: [Aditi Khare](https://www.linkedin.com/in/aditi-khare-5840977b/)  
+
+---
 
 ⭐ If this repository helps you reason more clearly about AI evaluation and trust, consider starring it.
 
